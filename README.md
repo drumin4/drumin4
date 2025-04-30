@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects that would further expand my knowledge passion for programming**
 
-- 💬 Ask me about **C#, Sql**
+- 💬 Ask me about **C#, Sql, Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandru-mincu-3959301b9/](https://www.linkedin.com/in/alexandru-mincu-3959301b9/)
 
