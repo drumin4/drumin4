@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandru-mincu-3959301b9/](https://www.linkedin.com/in/alexandru-mincu-3959301b9/)
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">alexandrumincu237@gmail.com</h3>
 <p align="left">
 </p>
 
